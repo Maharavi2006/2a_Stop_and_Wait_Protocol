@@ -40,7 +40,9 @@ while True:
 conn.close()
 server.close()
 ```
+
 ## OUTPUT
+
 **CLIENT:**
 
 ![Screenshot 2025-03-06 112227](https://github.com/user-attachments/assets/cf095b55-4de3-4a1a-bae1-45f84bfec5c4)
